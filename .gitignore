@@ -1,0 +1,9 @@
+/.idea/
+*.o
+*.cmd
+
+/src/.tmp_versions/
+/src/8192eu.ko
+/src/8192eu.mod.c
+/src/Module.symvers
+/src/modules.order
